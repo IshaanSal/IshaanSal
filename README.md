@@ -2,12 +2,6 @@
 
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
----
-
-:dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
-
----
-
 
 #### Programming Languages:
 
