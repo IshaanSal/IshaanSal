@@ -29,4 +29,6 @@
 
 <p align="left">
 <img src="https://techwiki.eng.ua.edu/images/7/70/Quartus-logo.png" width="50" height="50">
+<img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50">
 </p>
