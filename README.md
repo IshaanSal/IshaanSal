@@ -32,4 +32,5 @@
 <img src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50">
 <img src="https://pbs.twimg.com/profile_images/759142234562277376/e9hjUIwQ_400x400.jpg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50">
 </p>
