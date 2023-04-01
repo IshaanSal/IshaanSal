@@ -25,11 +25,6 @@
 </p>
 
 
-<!--
-<img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
--->
-
 #### Tech Stack:
 
 <p align="left">
