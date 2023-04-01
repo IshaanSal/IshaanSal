@@ -1,7 +1,5 @@
 # [Ishaan Salaskar](https://www.linkedin.com/in/ishaan-salaskar-uiuc26/)
 
-<img align="right" width="10%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
-
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
 Passionate **Computer Engineer**, with strong interest in advanced **Deep Learning Models** as well as **Chip Architecture**. 🟠🔵.
