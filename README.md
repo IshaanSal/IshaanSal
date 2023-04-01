@@ -34,7 +34,7 @@
 
 <p align="left">
 <img src="" width="40" height="40"/>
-<img src="C:\Users\ishaa\Downloads\173402987_Intel-Quartus-Prime-Design-Software.webp" width="40" height="40"/>
+<img src="https://www.nicepng.com/png/detail/49-496645_intel-quartus-prime-design-software-intel.png" alt="Intel Quartus® Prime Design Software - Intel@nicepng.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
