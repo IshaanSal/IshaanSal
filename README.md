@@ -8,13 +8,6 @@
 
 ---
 
- <!--
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ....
--->
 
 #### Programming Languages:
 
@@ -30,9 +23,8 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://img.icons8.com/color/30/000000/css3.png"/>
-<img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
-<img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/30/000000/git.png"/>
-<img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 </p>
