@@ -19,7 +19,7 @@
 #### Programming Languages:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/30/000000/python.png"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
