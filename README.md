@@ -33,5 +33,5 @@
 #### Familiar Tech:
 
 <p align="left">
-<img src="https://techwiki.eng.ua.edu/images/7/70/Quartus-logo.png" width="40" height="40">
+<img src="https://techwiki.eng.ua.edu/images/7/70/Quartus-logo.png" width="50" height="50">
 </p>
