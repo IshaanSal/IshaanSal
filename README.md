@@ -2,8 +2,6 @@
 
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
-Passionate **Computer Engineer**, with strong interest in advanced **Deep Learning Models** as well as **Chip Architecture**. 🟠🔵.
-
 ---
 
 :dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
@@ -21,7 +19,7 @@ Passionate **Computer Engineer**, with strong interest in advanced **Deep Learni
 #### Programming Languages:
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/javascript.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/30/000000/python.png"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
