@@ -19,7 +19,7 @@
 #### Programming Languages:
 
 <p align="left">
-<img src="https://img.icons8.com/color/30/000000/python.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/30/000000/python.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/30/000000/javascript.png" width="50" height="50"/>
@@ -29,7 +29,7 @@
 #### Library Proficiency:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 <img src="https://img.icons8.com/color/30/000000/css3.png"/>
 <img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
 <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
