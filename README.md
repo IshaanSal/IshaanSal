@@ -19,10 +19,9 @@
 #### Programming Languages:
 
 <p align="left">
+<img src="https://img.icons8.com/color/30/000000/python.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50"/>
-<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/30/000000/python.png"/>
-<img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" width="50" height="50"/>
 </p>
 
 
