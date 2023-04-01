@@ -10,8 +10,6 @@ Passionate **Computer Engineer**, with strong interest in advanced **Deep Learni
 
 ---
 
-![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshaanSal&hide=contribs,prs,issues&theme=radical)
-
  <!--
 
 - 👯 I’m looking to collaborate on ...
