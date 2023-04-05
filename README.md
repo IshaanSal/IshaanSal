@@ -7,7 +7,7 @@
 
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/python.png" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="51" height="50"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/30/000000/javascript.png" width="50" height="50"/>
 <img align="right" height="25%" width="25%" src ="https://s.wsj.net/public/resources/images/BN-NX694_ironma_M_20160507214946.jpg">
