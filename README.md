@@ -1,7 +1,6 @@
 # [Ishaan Salaskar](https://www.linkedin.com/in/ishaan-salaskar-uiuc26/)
 
-<style>
-          .react-logo {
+<p style= .react-logo {
             vertical-align: middle;
             margin-right: 20px;
         }
@@ -20,7 +19,7 @@
                 transform: rotate(360deg);
             }
         }
-</style>
+></p>
 
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
