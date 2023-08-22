@@ -1,9 +1,31 @@
 # [Ishaan Salaskar](https://www.linkedin.com/in/ishaan-salaskar-uiuc26/)
 
+<style>
+          .react-logo {
+            vertical-align: middle;
+            margin-right: 20px;
+        }
+
+        @media (prefers-reduced-motion: no-preference) {
+            .react-logo {
+                animation: App-logo-spin infinite 20s linear;
+            }
+        }
+
+        @keyframes App-logo-spin {
+            from {
+                transform: rotate(0deg);
+            }
+            to {
+                transform: rotate(360deg);
+            }
+        }
+</style>
+
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
 
-#### Programming Languages:
+#### Programming Languages // Frameworks:
 
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/python.png" width="50" height="50"/>
@@ -11,6 +33,8 @@
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/30/000000/javascript.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"
+height="50" class="react-logo"/>
 </p>
 
 #### Library Proficiency:
