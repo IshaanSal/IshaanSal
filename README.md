@@ -4,13 +4,11 @@
             vertical-align: middle;
             margin-right: 20px;
         }
-
         @media (prefers-reduced-motion: no-preference) {
             .react-logo {
                 animation: App-logo-spin infinite 20s linear;
             }
         }
-
         @keyframes App-logo-spin {
             from {
                 transform: rotate(0deg);
@@ -18,8 +16,7 @@
             to {
                 transform: rotate(360deg);
             }
-        }
-></p>
+        }></p>
 
 <h2 align="center">Computer Engineering @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
 
